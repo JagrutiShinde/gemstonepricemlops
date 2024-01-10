@@ -18,7 +18,7 @@ class customexception(Exception):
 
 if __name__=="__main__":
     try:
-        pass
+        1/0
 
     except Exception as e:
         #print(e)
