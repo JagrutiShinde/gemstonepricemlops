@@ -1,4 +1,5 @@
 from flask import Flask,request,render_template,jsonify
+
 from src.pipeline.prediction_pipeline import PredictPipeline,CustomData
 
 app=Flask(__name__)

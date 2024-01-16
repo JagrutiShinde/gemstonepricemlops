@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/c6bd6601630b4b7a9de80ee5fdaf4fcd/artifacts
+end_time: 1705398891644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6bd6601630b4b7a9de80ee5fdaf4fcd
+run_name: blushing-cod-759
+run_uuid: c6bd6601630b4b7a9de80ee5fdaf4fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705398888337
+status: 3
+tags: []
+user_id: abc
